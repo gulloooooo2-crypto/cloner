@@ -148,7 +148,7 @@ logo2 = logo1
                                                                   
                                                                   
 
- \033[1;91m   LOVE YOU GUYS
+ print("\033[1;91mLOVE YOU GUYS")
    
 \033[1;91m 🔴━━━❖❖R A H U L - H E R O )❖❖━━━━🔴
 \033[1;91m RAHUL HERO 
