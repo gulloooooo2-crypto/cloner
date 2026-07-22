@@ -79,7 +79,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """
+print("/data/data/com.termux/files/home/cloner/cloner.py")
  
  
 
