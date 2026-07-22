@@ -174,8 +174,9 @@ while (loop == 'true'):
     CorrectPassword):
                          print ("Logged in successfully as " 
                          + username) #Dev:love_hacker
-                    time.sleep(2)
-                    loop = 'false'
+                            time.sleep(2)
+                            loop = 'false'
+                    
             else:
                    print "\033[1;94mWrong Password"
                    
