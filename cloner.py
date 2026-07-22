@@ -96,7 +96,7 @@ print("""
 
                                     
 
- \033[1;91m   LOVE YOU GUYS
+ \033[1;91m   print("\033[1;91m LOVE YOU GUYS")
  
  
  
