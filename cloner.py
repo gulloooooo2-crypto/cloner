@@ -151,17 +151,17 @@ logo2 = logo1
 print("\033[1;91mLOVE YOU GUYS")
    
 print("\033[1;91m🔴---❖❖RAHUL-HERO❖❖---🔴")
-\033[1;91m RAHUL HERO 
+print("\033[1;91mRAHUL HERO")
  
-\033[1;96m--------------------- R🚫H--------------------
+print("\033[1;96m---------------- RØH ----------------")
  
     
  
-\033[1;95mTAWADA OFFICAIL PAOO AHSAN.BALOCH”
+print("\033[1;95mTAWADA OFFICIAL PAO AHSAN.BALOCH")
 
-                                                
-\033[1;96m--------------------- R A H U L - H E R O--------------------
-"""
+
+print("\033[1;96m---------------- R A H U L - H E R O ----------------")
+
 CorrectUsername = "AN"
 CorrectPassword = "NA"
 
