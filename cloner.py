@@ -180,7 +180,7 @@ while (loop == 'true'):
             password = raw_input("\033[1;97mðŸ—� \x1b[1;91mTool Password  \x1b[1;97m» \x1b[1;97m")
             if (password == 
     CorrectPassword):
-                         print "Logged in 
+                         print "Logged in
 successfully as " + username #Dev:love_hacker
                     time.sleep(2)
                     loop = 'false'
